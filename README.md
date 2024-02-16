@@ -1,5 +1,5 @@
-Colégio Estadual Dr Arnaldo Busatto
-Jessica Silva De Lima
+* Colégio Estadual Dr Arnaldo Busatto
+* Jessica Silva De Lima
 17 Anos 
 1,69 Cm
 65 Kg
